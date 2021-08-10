@@ -1,4 +1,4 @@
-## Dataset process
+## rename-files
 
 Aplicativo para renomear imagens e anotações feitas pela ferramenta **LabelMe**.
 
